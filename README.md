@@ -1,35 +1,15 @@
-# 🏄‍♂️ Connor Ferns
+# 🏄‍♂Hey there I'm Connor
 
-**`Digital Craftsman (Developer)`**
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Connor-Ferns&show_icons=true&bg_color=00000000"/>
 
-
+<img align='left' width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Ferns&layout=compact"/>
 
 ---
 
-### 🧰 Languages and Tools 🧰
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-#
-
-### 📺 Latest Projects
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 
 
-
-#
-
-### 📊 Stats
-
-
-
-#
-
-<details>
  <summary><h3>👨‍ Connor's Coding Journey</h3></summary>
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et vehicula elit. Phasellus accumsan turpis vel sapien blandit finibus. Proin pellentesque vel magna vitae ultrices. Mauris a lorem sed felis volutpat congue vulputate vitae justo. Suspendisse interdum luctus arcu, venenatis porttitor elit pellentesque vitae. Nam sagittis, nisi id vestibulum facilisis, velit mi euismod mauris, vel cursus mi dolor at tellus. Nulla rhoncus purus odio, quis sagittis metus fringilla ac. Curabitur eget hendrerit ante. Nulla pellentesque metus sit amet dui egestas, ac efficitur odio lacinia. Ut ac purus sed quam tempor efficitur commodo sit amet purus. Aenean eget ex maximus, ultrices lectus quis, venenatis lorem. Phasellus venenatis finibus erat sed scelerisque. Pellentesque sed maximus lacus, maximus aliquet tellus. Duis iaculis consequat hendrerit. 
