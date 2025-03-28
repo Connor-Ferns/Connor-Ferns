@@ -26,10 +26,10 @@ A Computer Science graduate with a First Class Equivalent (2:1) and an unwaverin
 ### Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-🏆 Featured Projects (Currently Developing):
+### 🏆 Featured Projects (Currently Developing):
 🎮 Game Development
-
-DungeonKnight - A 2D top-down roguelike dungeon crawler featuring procedurally generated levels and dynamic gameplay. Players control a knight navigating through randomly created dungeons, battling enemies, collecting resources, and progressively upgrading their character's abilities and stats.
+🗡️ DUNGEON KNIGHT 🏰
+A 2D top-down roguelike dungeon crawler featuring procedurally generated levels and dynamic gameplay. Players control a knight navigating through randomly created dungeons, battling enemies, collecting resources, and progressively upgrading their character's abilities and stats.
 Key Features:
 
 Procedurally generated dungeon environments ensuring unique gameplay experiences
@@ -38,8 +38,8 @@ Character progression system with stat upgrades and ability unlocking
 Resource collection and looting mechanics
 Challenging roguelike gameplay with strategic character development
 
-
-Traffic Stopper - A nerve-wracking traffic management simulator that challenges players to control a single traffic light and prevent chaos on the streets. Balance the delicate dance of pedestrian safety and traffic flow with split-second timing and strategic decision-making.
+🚦 TRAFFIC STOPPER 🚨
+A nerve-wracking traffic management simulator that challenges players to control a single traffic light and prevent chaos on the streets. Balance the delicate dance of pedestrian safety and traffic flow with split-second timing and strategic decision-making.
 Key Features:
 
 Minimalist one-button gameplay mechanic
