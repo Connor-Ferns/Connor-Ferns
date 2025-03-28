@@ -40,6 +40,7 @@ Challenging roguelike gameplay with strategic character development
 
 🚦 TRAFFIC STOPPER 🚨
 A nerve-wracking traffic management simulator that challenges players to control a single traffic light and prevent chaos on the streets. Balance the delicate dance of pedestrian safety and traffic flow with split-second timing and strategic decision-making.
+
 Key Features:
 
 Minimalist one-button gameplay mechanic
@@ -60,6 +61,7 @@ Adapt to increasingly complex traffic scenarios
 ### 💻 Web & Full-Stack Projects (In Progress)
 
 Portfolio Website - A comprehensive personal portfolio website showcasing my projects, skills, and professional journey. Built using React and AWS, demonstrating full-stack development capabilities and responsive design principles.
+
 E-Commerce Platform - A robust e-commerce web application featuring user authentication, product management, shopping cart functionality, and secure payment integration. Utilizing modern web technologies to create a seamless online shopping experience.
 
 ## 📊 GitHub Stats:
