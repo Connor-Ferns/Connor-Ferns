@@ -9,8 +9,7 @@ A Computer Science graduate with a First Class Equivalent (2:1) and an unwaverin
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connor-ferns-08a2b5178/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connorferns@gmail.com)
 
 ## 💻 Tech Stack:
 ### Languages:
@@ -29,7 +28,14 @@ A Computer Science graduate with a First Class Equivalent (2:1) and an unwaverin
 
 ## 🏆 Featured Projects:
 ### 🎮 Game Development
-- **[Project Name]** - Brief description of a game development project
+- **DungeonKnight** - A 2D top-down roguelike dungeon crawler featuring procedurally generated levels and dynamic gameplay. Players control a knight navigating through randomly created dungeons, battling enemies, collecting resources, and progressively upgrading their character's abilities and stats.
+Key Features
+
+Procedurally generated dungeon environments ensuring unique gameplay experiences
+Dynamic enemy encounters with challenging combat mechanics
+Character progression system with stat upgrades and ability unlocking
+Resource collection and looting mechanics
+Challenging roguelike gameplay with strategic character development
 - **[Project Name]** - Another compelling game or interactive experience
 
 ### 💻 Web & Full-Stack Projects
