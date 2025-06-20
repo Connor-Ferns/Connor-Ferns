@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Connor 👋<br>
-A Computer Science graduate with a First Class Equivalent (2:1) and an unwavering passion for game development. My journey began with childhood curiosity—disassembling game mechanics and exploring the intricate worlds of interactive entertainment. Now, I'm transforming that passion into professional expertise, leveraging cutting-edge technologies to create immersive gaming experiences. 🎮✨
+A Computer Science graduate with a First Class (2:1) and an unwavering passion for game development. My journey began with childhood curiosity—disassembling game mechanics and exploring the intricate worlds of interactive entertainment. Now, I'm transforming that passion into professional expertise, leveraging cutting-edge technologies to create immersive gaming experiences. 🎮✨
 
 ## 🚀 Professional Focus
 - 🕹️ Specializing in Game Development with Unity and C#
